@@ -7,3 +7,6 @@ for(let i=0;i<s.length;i++){
 }
 if(set.size==26) console.log('is pangram');
 else console.log('not ');
+
+
+//hello
